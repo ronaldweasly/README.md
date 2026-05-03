@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Himanshu
 
-🚀 Engineering Student (AI & Data Science)
-💻 Focused on **DevOps, Cloud & Scalable Systems**
-⚡ Building real-world production-ready projects
+🚀 DevOps & Cloud Engineer (in progress)
+💻 Building and deploying **real-world scalable systems**
+⚡ Focused on **Docker, AWS, System Design & Automation**
 
 ---
 
@@ -32,58 +32,66 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 ---
 
-## 🧠 What I Do
-
-* Deploy full-stack apps on cloud (AWS VPS)
-* Design containerized systems using Docker
-* Build backend APIs and services
-* Work with monitoring and system architecture
-
----
-
-## 🔥 Featured Projects
+## 🔥 Featured Work
 
 ### 🚀 Production Deployment System
 
-Deployed a full-stack application using Docker, Nginx, and AWS VPS with reverse proxy and monitoring (Grafana + Prometheus)
+* Deployed full-stack app on AWS VPS using Docker & Nginx
+* Reverse proxy routing + monitoring (Grafana + Prometheus)
+* Solved real issues: disk limits, port conflicts, networking
+
+---
 
 ### 🤖 Autonomous AI Agency
 
-Built a multi-agent system handling lead generation, code execution, QA, and deployment automation using LLM orchestration
+* Multi-agent system for lead → code → QA → deployment
+* LLM orchestration with sandbox execution
+* Production-style workflow automation
+
+---
+
+### 🧠 Railway Monitoring System
+
+* Microservices-based ML system
+* Real-time data + prediction + monitoring
+* FastAPI + Redis + Docker + Grafana
+
+---
 
 ### 🎲 Board Game Web App
 
-Spring Boot application with role-based authentication, CRUD operations, and AWS deployment
+* Spring Boot + role-based authentication
+* Full CRUD + AWS deployment
+* MVC architecture + security
 
 ---
 
 ## 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=ronaldweasly\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldweasly\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=radical)
-
----
-
-## 🎯 Goals
-
-* Become a DevOps / Cloud Engineer
-* Build scalable production systems
-* Master system design and distributed architecture
+![Streak](https://streak-stats.demolab.com?user=ronaldweasly\&theme=radical)
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Focus
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: (add your link)
+* DevOps & cloud engineering
+* System design & scalability
+* Building production-level projects
 
 ---
 
-⭐ Always building. Always improving.
+## 📫 Connect
+
+* GitHub: https://github.com/ronaldweasly
+* LinkedIn: himanshuxshukla
+
+---
+
+⭐ Consistency > Motivation
